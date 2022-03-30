@@ -1,0 +1,2 @@
+D:\vr\BeatsaberMod\Rankable\obj\Debug\Rankable.csproj.AssemblyReference.cache
+D:\vr\BeatsaberMod\Rankable\obj\Debug\Rankable.csproj.CoreCompileInputs.cache
